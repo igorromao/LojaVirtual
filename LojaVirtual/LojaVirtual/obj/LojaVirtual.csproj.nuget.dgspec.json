@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1676912\\source\\repos\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj": {}
+    "C:\\Users\\1676912\\Documents\\GitHub\\LojaVirtual\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1676912\\source\\repos\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj": {
+    "C:\\Users\\1676912\\Documents\\GitHub\\LojaVirtual\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1676912\\source\\repos\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+        "projectUniqueName": "C:\\Users\\1676912\\Documents\\GitHub\\LojaVirtual\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
         "projectName": "LojaVirtual",
-        "projectPath": "C:\\Users\\1676912\\source\\repos\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+        "projectPath": "C:\\Users\\1676912\\Documents\\GitHub\\LojaVirtual\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
         "packagesPath": "C:\\Users\\1676912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1676912\\source\\repos\\LojaVirtual\\LojaVirtual\\obj\\",
+        "outputPath": "C:\\Users\\1676912\\Documents\\GitHub\\LojaVirtual\\LojaVirtual\\LojaVirtual\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
             }
           },
           "imports": [

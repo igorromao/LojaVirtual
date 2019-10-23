@@ -24,10 +24,7 @@ namespace LojaVirtual.Controllers
         {
             return new Produto()
             {
-                Id = 1,
-                Nome = "play 4",
-                Descricao = "jogo 5k",
-                Valor = 20.00M
+            
             };
         }
     }
